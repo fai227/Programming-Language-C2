@@ -1,0 +1,5 @@
+﻿  Ex1.cpp
+C:\Users\hayat\OneDrive - 同志社大学\3年春学期\プログラミングC言語Ⅱ\課題\中間課題\Ex1\Ex1\Ex1.cpp(180,75): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\hayat\OneDrive - 同志社大学\3年春学期\プログラミングC言語Ⅱ\課題\中間課題\Ex1\Ex1\Ex1.cpp(184,77): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\hayat\OneDrive - 同志社大学\3年春学期\プログラミングC言語Ⅱ\課題\中間課題\Ex1\Ex1\Ex1.cpp(188,75): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  Ex1.vcxproj -> C:\Users\hayat\OneDrive - 同志社大学\3年春学期\プログラミングC言語Ⅱ\課題\中間課題\Ex1\Debug\Ex1.exe
